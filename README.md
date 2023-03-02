@@ -4,10 +4,10 @@
         </samp>
 </h3>
 
+<br>
+
 <!--GitHub stats -->
-<h3> :trophy: My Github Stats: </h3>
-
-
+<h3> :trophy: My GitHub Stats: </h3>
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=dipesh-rawat&count_private=true&hide=issues,stars&show_icons=true&theme=transparent">
   <img src="https://github-readme-stats.vercel.app/api?username=dipesh-rawat&count_private=true&hide=issues,stars&show_icons=true&theme=transparent" />
