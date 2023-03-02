@@ -1,16 +1,18 @@
-### Hi there 👋
+<!-- Intro  -->
+<h2 align="left">
+        <samp>&gt; Hi there! I am Dipesh</b> <img src = "https://raw.githubusercontent.com/dipesh-rawat/dipesh-rawat/main/assets/wave.gif" width = 50px> 
+        </samp>
+</h2>
 
-<!--
-**dipesh-rawat/dipesh-rawat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--GitHub stats -->
+<h2> :trophy: My Github Stats: </h2>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=dipesh-rawat&count_private=true&hide=issues,stars&show_icons=true&theme=transparent">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=dipesh-rawat&count_private=true&hide=issues,stars&show_icons=true&theme=transparent" />
+</a>
+<a href="https://streak-stats.demolab.com?user=dipesh-rawat&theme=transparent&mode=weekly">
+  <img align="left" src="https://streak-stats.demolab.com?user=dipesh-rawat&theme=transparent&mode=weekly" />
+</a>
+</div>
