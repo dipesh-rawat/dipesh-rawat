@@ -10,9 +10,10 @@
 
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=dipesh-rawat&count_private=true&hide=issues,stars&show_icons=true&theme=transparent">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=dipesh-rawat&count_private=true&hide=issues,stars&show_icons=true&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dipesh-rawat&count_private=true&hide=issues,stars&show_icons=true&theme=transparent" />
 </a>
+<br><br>
 <a href="https://streak-stats.demolab.com?user=dipesh-rawat&theme=transparent&mode=weekly">
-  <img align="right" src="https://streak-stats.demolab.com?user=dipesh-rawat&theme=transparent&mode=weekly" />
+  <img src="https://streak-stats.demolab.com?user=dipesh-rawat&theme=transparent&mode=weekly" />
 </a>
 </div>
