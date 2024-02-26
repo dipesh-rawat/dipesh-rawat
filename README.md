@@ -12,7 +12,7 @@ I'm Dipesh Rawat, a passionate software developer based in the United Kingdom. I
 
 ## 🚀 Open Source Contributions
 
-I'm an advocate for open source collaboration. I'm currently actively contributing to the Kubernetes community. In my role as a _Reviewer_ within Kubernetes SIG-Docs _([Special Interest Group for Documentation](https://github.com/kubernetes/community/tree/master/sig-docs))_, I actively review and contribute to the improvement of Kubernetes documentation. Check out my GitHub stats to see my contributions and activity in the open source universe!
+I'm an advocate for open source collaboration. I'm currently actively contributing to the Kubernetes community. In my role as a _Approver_ within Kubernetes SIG-Docs _([Special Interest Group for Documentation](https://github.com/kubernetes/community/tree/master/sig-docs))_, I actively review and contribute to the improvement of Kubernetes documentation. Check out my GitHub stats to see my contributions and activity in the open source universe!
 
 <a href="https://github.com/dipesh-rawat">
   <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=dipesh-rawat&hide=stars,issues,prs&show=reviews,prs_merged_percentage&show_icons=true&rank_icon=github&custom_title=Dipesh%27s%20Github%20Stats&theme=transparent" />
